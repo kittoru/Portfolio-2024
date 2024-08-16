@@ -1,0 +1,14 @@
+.skills__list,
+.education__list,
+.work__content {
+  transform: translateY(0);
+  animation: 1.5s show ease;
+}
+
+@keyframes show {
+  from { 
+    opacity: 0; 
+    transform: translateY(20px);
+  }
+  to { opacity: 1; }
+}

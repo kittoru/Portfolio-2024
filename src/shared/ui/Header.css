@@ -1,0 +1,14 @@
+
+
+.header__link {
+  @apply text-blue-base py-[2px] px-[8px] rounded-full cursor-pointer;
+}
+
+.header__link:hover {
+  @apply text-blue-light
+}
+
+.header__link:focus,
+.header__link:active {
+  @apply  bg-blue-light/20;
+}
