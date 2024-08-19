@@ -9,7 +9,7 @@ export const Skills = () => {
   })
 
   return ( 
-    <ul className="flex gap-4 flex-wrap skills__list">
+    <ul className="flex gap-4 flex-wrap skills__list m650:gap-y-2 m650:gap-x-3 m565:justify-center">
       {list}
     </ul>
    );

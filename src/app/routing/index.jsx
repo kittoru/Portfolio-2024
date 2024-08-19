@@ -1,10 +1,10 @@
-import { createHashRouter } from "react-router-dom";
+import { createBrowserRouter } from "react-router-dom";
 import { MainPage } from "../../pages";
 import { Education, Skills, Work } from "../../shared";
 
 
 
-export const router = createHashRouter([
+export const router = createBrowserRouter([
   {
     path: '/',
     element: <MainPage />,
