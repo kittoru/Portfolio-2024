@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://kittoru.github.io/Test-build/static/css/main.4dc7884a.css",
-    "main.js": "https://kittoru.github.io/Test-build/static/js/main.a4404aba.js",
+    "main.css": "https://kittoru.github.io/Test-build/static/css/main.6d6ecb95.css",
+    "main.js": "https://kittoru.github.io/Test-build/static/js/main.6b07f97c.js",
     "static/media/works.gif": "https://kittoru.github.io/Test-build/static/media/works.2f75219cdf0b98db0a7a.gif",
     "static/media/me.gif": "https://kittoru.github.io/Test-build/static/media/me.a6fbc633da991518cb86.gif",
     "static/media/fire.gif": "https://kittoru.github.io/Test-build/static/media/fire.65df11a29a6402c1340c.gif",
@@ -12,11 +12,11 @@
     "static/media/tg.svg": "https://kittoru.github.io/Test-build/static/media/tg.097c4a27abffd9a14399f7c9b0bd145f.svg",
     "static/media/github.svg": "https://kittoru.github.io/Test-build/static/media/github.c8fb787a019018d2ff4c13e228a314a2.svg",
     "index.html": "https://kittoru.github.io/Test-build/index.html",
-    "main.4dc7884a.css.map": "https://kittoru.github.io/Test-build/static/css/main.4dc7884a.css.map",
-    "main.a4404aba.js.map": "https://kittoru.github.io/Test-build/static/js/main.a4404aba.js.map"
+    "main.6d6ecb95.css.map": "https://kittoru.github.io/Test-build/static/css/main.6d6ecb95.css.map",
+    "main.6b07f97c.js.map": "https://kittoru.github.io/Test-build/static/js/main.6b07f97c.js.map"
   },
   "entrypoints": [
-    "https://kittoru.github.io/Test-build/static/css/main.4dc7884a.css",
-    "https://kittoru.github.io/Test-build/static/js/main.a4404aba.js"
+    "https://kittoru.github.io/Test-build/static/css/main.6d6ecb95.css",
+    "https://kittoru.github.io/Test-build/static/js/main.6b07f97c.js"
   ]
 }
