@@ -20,7 +20,23 @@ module.exports = {
     },
     extend: {
       screens: {
+        // '2xl': {'max': '1440px'},
+        // 'xl': {'max': '1280px'},
+        // 'm1100': {'max': '1100px'},
+        // 'lg': {'max': '1024px'},
+        // 'md': {'max': '768px'},
+        // 'sm': {'max': '640px'},
       '2xl': {'max': '1440px'},
+      'max-md': {'max': '1280px'},
+      'max-sm': {'max': '1100px'},
+      'm1000': {'max': '1000px'},
+      'm905': {'max': '905px'},
+      'm805': {'max': '805px'},
+      'm650': {'max': '650px'},
+      'm565': {'max': '565px'},
+      'md': {'max': '768px'},
+      'sm': {'max': '640px'},
+      'mini': {'max': '375px'},
       },
       container: {
         center: true,
