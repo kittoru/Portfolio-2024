@@ -36,6 +36,7 @@ module.exports = {
       'm565': {'max': '565px'},
       'md': {'max': '768px'},
       'sm': {'max': '640px'},
+      'm405': {'max': '405px'},
       'mini': {'max': '375px'},
       },
       container: {

@@ -1,7 +1,7 @@
 
 
 .header__link {
-  @apply text-blue-base py-[2px] px-[8px] rounded-full cursor-pointer;
+  @apply text-blue-base py-[2px] px-[8px] rounded-full cursor-pointer m405:px-[2px];
 }
 
 .header__link:hover {
