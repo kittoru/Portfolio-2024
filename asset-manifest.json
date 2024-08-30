@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Test-build/static/css/main.6d6ecb95.css",
-    "main.js": "/Test-build/static/js/main.23239f4b.js",
-    "static/media/works.gif": "/Test-build/static/media/works.2f75219cdf0b98db0a7a.gif",
-    "static/media/me.gif": "/Test-build/static/media/me.a6fbc633da991518cb86.gif",
-    "static/media/fire.gif": "/Test-build/static/media/fire.65df11a29a6402c1340c.gif",
-    "static/media/fashion.jpg": "/Test-build/static/media/fashion.6a6d93b59c0e83021a59.jpg",
-    "static/media/coca.jpg": "/Test-build/static/media/coca.d44b2d4657194a6f2d12.jpg",
-    "static/media/simple.jpg": "/Test-build/static/media/simple.d89a1c221d975f19526c.jpg",
-    "static/media/weather.jpg": "/Test-build/static/media/weather.9ba8e431b8a12c76c96c.jpg",
-    "static/media/panic.jpg": "/Test-build/static/media/panic.22b1a7c59efef6cfe8cd.jpg",
-    "static/media/tg.svg": "/Test-build/static/media/tg.097c4a27abffd9a14399f7c9b0bd145f.svg",
-    "static/media/github.svg": "/Test-build/static/media/github.c8fb787a019018d2ff4c13e228a314a2.svg",
-    "index.html": "/Test-build/index.html",
-    "main.6d6ecb95.css.map": "/Test-build/static/css/main.6d6ecb95.css.map",
-    "main.23239f4b.js.map": "/Test-build/static/js/main.23239f4b.js.map"
+    "main.css": "https://kittoru.github.io//Portfolio-2024/static/css/main.6d6ecb95.css",
+    "main.js": "https://kittoru.github.io//Portfolio-2024/static/js/main.75878145.js",
+    "static/media/works.gif": "https://kittoru.github.io//Portfolio-2024/static/media/works.2f75219cdf0b98db0a7a.gif",
+    "static/media/me.gif": "https://kittoru.github.io//Portfolio-2024/static/media/me.a6fbc633da991518cb86.gif",
+    "static/media/fire.gif": "https://kittoru.github.io//Portfolio-2024/static/media/fire.65df11a29a6402c1340c.gif",
+    "static/media/fashion.jpg": "https://kittoru.github.io//Portfolio-2024/static/media/fashion.6a6d93b59c0e83021a59.jpg",
+    "static/media/coca.jpg": "https://kittoru.github.io//Portfolio-2024/static/media/coca.d44b2d4657194a6f2d12.jpg",
+    "static/media/simple.jpg": "https://kittoru.github.io//Portfolio-2024/static/media/simple.d89a1c221d975f19526c.jpg",
+    "static/media/weather.jpg": "https://kittoru.github.io//Portfolio-2024/static/media/weather.9ba8e431b8a12c76c96c.jpg",
+    "static/media/panic.jpg": "https://kittoru.github.io//Portfolio-2024/static/media/panic.22b1a7c59efef6cfe8cd.jpg",
+    "static/media/tg.svg": "https://kittoru.github.io//Portfolio-2024/static/media/tg.097c4a27abffd9a14399f7c9b0bd145f.svg",
+    "static/media/github.svg": "https://kittoru.github.io//Portfolio-2024/static/media/github.c8fb787a019018d2ff4c13e228a314a2.svg",
+    "index.html": "https://kittoru.github.io//Portfolio-2024/index.html",
+    "main.6d6ecb95.css.map": "https://kittoru.github.io//Portfolio-2024/static/css/main.6d6ecb95.css.map",
+    "main.75878145.js.map": "https://kittoru.github.io//Portfolio-2024/static/js/main.75878145.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d6ecb95.css",
-    "static/js/main.23239f4b.js"
+    "https://kittoru.github.io//Portfolio-2024/static/css/main.6d6ecb95.css",
+    "https://kittoru.github.io//Portfolio-2024/static/js/main.75878145.js"
   ]
 }
