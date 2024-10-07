@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Portfolio-2024/static/css/main.6d6ecb95.css",
-    "main.js": "/Portfolio-2024/static/js/main.1bce1760.js",
+    "main.js": "/Portfolio-2024/static/js/main.31834076.js",
     "static/media/works.gif": "/Portfolio-2024/static/media/works.2f75219cdf0b98db0a7a.gif",
     "static/media/me.gif": "/Portfolio-2024/static/media/me.a6fbc633da991518cb86.gif",
     "static/media/fire.gif": "/Portfolio-2024/static/media/fire.65df11a29a6402c1340c.gif",
     "static/media/coca.jpg": "/Portfolio-2024/static/media/coca.d44b2d4657194a6f2d12.jpg",
     "static/media/simple.jpg": "/Portfolio-2024/static/media/simple.d89a1c221d975f19526c.jpg",
-    "static/media/weather.jpg": "/Portfolio-2024/static/media/weather.9ba8e431b8a12c76c96c.jpg",
     "static/media/todo.jpg": "/Portfolio-2024/static/media/todo.fd9dc62b2b933fc27179.jpg",
     "static/media/panic.jpg": "/Portfolio-2024/static/media/panic.22b1a7c59efef6cfe8cd.jpg",
+    "static/media/weather.jpg": "/Portfolio-2024/static/media/weather.c42a1297258f9748aba2.jpg",
     "static/media/tg.svg": "/Portfolio-2024/static/media/tg.097c4a27abffd9a14399f7c9b0bd145f.svg",
     "static/media/github.svg": "/Portfolio-2024/static/media/github.c8fb787a019018d2ff4c13e228a314a2.svg",
     "index.html": "/Portfolio-2024/index.html",
     "main.6d6ecb95.css.map": "/Portfolio-2024/static/css/main.6d6ecb95.css.map",
-    "main.1bce1760.js.map": "/Portfolio-2024/static/js/main.1bce1760.js.map"
+    "main.31834076.js.map": "/Portfolio-2024/static/js/main.31834076.js.map"
   },
   "entrypoints": [
     "static/css/main.6d6ecb95.css",
-    "static/js/main.1bce1760.js"
+    "static/js/main.31834076.js"
   ]
 }
